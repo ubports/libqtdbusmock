@@ -1,3 +1,9 @@
+libqtdbusmock (0.8+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Fri, 12 Jan 2018 11:26:16 +0000
+
 libqtdbusmock (0.7+17.04.20170316.1-0ubuntu1) zesty; urgency=medium
 
   [ Pete ]
