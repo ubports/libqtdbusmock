@@ -18,11 +18,11 @@ add_executable(
 	${UNIT_TESTS_SRC}
 )
 
-qt5_use_modules(
-	unit-tests
-	Core
-	DBus
-	Test
+target_link_libraries(
+    unit-tests
+    Qt5::Core
+    Qt5::DBus
+    Qt5::Test
 )
 
 target_link_libraries(
