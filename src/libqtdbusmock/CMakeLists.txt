@@ -191,11 +191,11 @@ add_library(
 	${QTDBUSMOCK_SRC}
 )
 
-qt5_use_modules(
-	qtdbusmock
-	Core
-	DBus
-	Test
+target_link_libraries(
+    qtdbusmock
+    Qt5::Core
+    Qt5::DBus
+    Qt5::Test
 )
 
 target_link_libraries(
