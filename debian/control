@@ -46,6 +46,7 @@ Description: Library for mocking DBus interactions using Qt
 Package: libqtdbusmock1-common
 Section: libs
 Architecture: all
+Multi-Arch: foreign
 Pre-Depends: ${misc:Pre-Depends},
 Depends: ${misc:Depends},
 Description: Library for mocking DBus interactions using Qt
