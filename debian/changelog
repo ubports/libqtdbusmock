@@ -1,3 +1,10 @@
+libqtdbusmock (0.9~0ubports1) xenial; urgency=medium
+
+  * debian/changelog: Use new versioning scheme
+  * debian/control: Add "Multi-Arch: foreign" to the -common package
+
+ -- Alberto Mardegan <mardy@users.sourceforge.net>  Sat, 13 Oct 2018 23:48:27 +0300
+
 libqtdbusmock (0.8+ubports) xenial; urgency=medium
 
   * Imported to UBports
