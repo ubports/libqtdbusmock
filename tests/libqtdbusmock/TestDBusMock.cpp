@@ -18,7 +18,7 @@
 
 #include <libqtdbusmock/DBusMock.h>
 #include <QCoreApplication>
-#include <NetworkManager.h>
+#include <nm-dbus-interface.h>
 #include <QList>
 #include <QDBusInterface>
 #include <QDBusObjectPath>

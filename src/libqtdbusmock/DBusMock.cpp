@@ -19,7 +19,7 @@
 #include <libqtdbusmock/DBusMock.h>
 #include <libqtdbustest/QProcessDBusService.h>
 
-#include <NetworkManager.h>
+#include <nm-dbus-interface.h>
 #include <QFile>
 #include <QJsonDocument>
 #include <QStandardPaths>
